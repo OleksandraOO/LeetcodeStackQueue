@@ -1,4 +1,4 @@
-from stack import Stack
+from queue_using_stack.stack import Stack
 class MyQueue:
     """
     class realising queue by using 2 stacks
